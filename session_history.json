@@ -76,5 +76,70 @@
         "timed_out": 0,
         "questions": 5,
         "date": "2026-06-24 14:47:55"
+    },
+    {
+        "session_id": "814d57ec-fec6-473f-9009-b26c2d01f942",
+        "player": "Asabe",
+        "topic": "General Knowledge",
+        "difficulty": "mixed",
+        "score": 29,
+        "accuracy": 100.0,
+        "correct": 2,
+        "wrong": 0,
+        "timed_out": 0,
+        "questions": 2,
+        "date": "2026-07-19 17:46:39"
+    },
+    {
+        "session_id": "c4ff5269-5783-42fb-a173-e82802bda524",
+        "player": "Asabe",
+        "topic": "Python Programming",
+        "difficulty": "mixed",
+        "score": 0,
+        "accuracy": 0.0,
+        "correct": 0,
+        "wrong": 3,
+        "timed_out": 3,
+        "questions": 3,
+        "date": "2026-07-22 11:59:08"
+    },
+    {
+        "session_id": "7ad6147d-b88f-43b4-bcc9-a271fbd9f323",
+        "player": "Purity",
+        "topic": "Science",
+        "difficulty": "mixed",
+        "score": 40,
+        "accuracy": 100.0,
+        "correct": 2,
+        "wrong": 0,
+        "timed_out": 0,
+        "questions": 2,
+        "date": "2026-07-22 12:01:03"
+    },
+    {
+        "session_id": "fabe05c7-98e4-49c6-88d7-67d289e32839",
+        "player": "Asabe Nasir",
+        "topic": "General Knowledge",
+        "difficulty": "mixed",
+        "score": 97,
+        "accuracy": 40.0,
+        "correct": 2,
+        "wrong": 3,
+        "timed_out": 2,
+        "questions": 5,
+        "date": "2026-08-24 10:56:16"
+    },
+    {
+        "session_id": "525dc24f-8138-4f3e-b46a-37cfc136c356",
+        "player": "Asabe Nasir",
+        "topic": "General Knowledge",
+        "difficulty": "mixed",
+        "score": 240,
+        "accuracy": 80.0,
+        "correct": 4,
+        "wrong": 1,
+        "timed_out": 1,
+        "questions": 5,
+        "date": "2026-08-24 10:57:36"
     }
 ]

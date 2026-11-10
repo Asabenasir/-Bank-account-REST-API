@@ -13,6 +13,19 @@
         "date": "2026-06-13 16:04:18"
     },
     {
+        "session_id": "525dc24f-8138-4f3e-b46a-37cfc136c356",
+        "player": "Asabe Nasir",
+        "topic": "General Knowledge",
+        "difficulty": "mixed",
+        "score": 240,
+        "accuracy": 80.0,
+        "correct": 4,
+        "wrong": 1,
+        "timed_out": 1,
+        "questions": 5,
+        "date": "2026-08-24 10:57:36"
+    },
+    {
         "session_id": "dbfe6f0e-a384-479e-867c-5a6e4c0d44f7",
         "player": "Angel",
         "topic": "General Knowledge",
@@ -24,6 +37,19 @@
         "timed_out": 0,
         "questions": 5,
         "date": "2026-06-16 01:10:48"
+    },
+    {
+        "session_id": "fabe05c7-98e4-49c6-88d7-67d289e32839",
+        "player": "Asabe Nasir",
+        "topic": "General Knowledge",
+        "difficulty": "mixed",
+        "score": 97,
+        "accuracy": 40.0,
+        "correct": 2,
+        "wrong": 3,
+        "timed_out": 2,
+        "questions": 5,
+        "date": "2026-08-24 10:56:16"
     },
     {
         "session_id": "dea0cd26-b2c6-4f5c-b13d-94899db7f847",
@@ -52,6 +78,19 @@
         "date": "2026-06-16 01:05:11"
     },
     {
+        "session_id": "7ad6147d-b88f-43b4-bcc9-a271fbd9f323",
+        "player": "Purity",
+        "topic": "Science",
+        "difficulty": "mixed",
+        "score": 40,
+        "accuracy": 100.0,
+        "correct": 2,
+        "wrong": 0,
+        "timed_out": 0,
+        "questions": 2,
+        "date": "2026-07-22 12:01:03"
+    },
+    {
         "session_id": "b894adb6-2d22-4c2c-874e-9062c630c042",
         "player": "Mary",
         "topic": "Science",
@@ -63,6 +102,19 @@
         "timed_out": 0,
         "questions": 2,
         "date": "2026-06-16 01:08:21"
+    },
+    {
+        "session_id": "814d57ec-fec6-473f-9009-b26c2d01f942",
+        "player": "Asabe",
+        "topic": "General Knowledge",
+        "difficulty": "mixed",
+        "score": 29,
+        "accuracy": 100.0,
+        "correct": 2,
+        "wrong": 0,
+        "timed_out": 0,
+        "questions": 2,
+        "date": "2026-07-19 17:46:39"
     },
     {
         "session_id": "0e9a7e8e-be5b-449a-ad78-a2c8d7fe1537",
